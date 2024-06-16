@@ -1,0 +1,15 @@
+pyspark==3.5
+chardet==4.0.0
+openpyxl==3.0.7
+boto3
+pandas
+findspark
+psycopg2-binary
+pyarrow
+pydeequ==1.2.0
+mlflow==2.11.3
+hyperopt==0.2.7
+synapse
+synapseml
+fsspec
+s3fs
